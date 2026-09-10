@@ -1,2 +1,5 @@
 # Python-Assignments
-my 1st repository
+l = "hello world"
+length = len(l)
+print(length)
+
