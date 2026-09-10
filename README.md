@@ -8,6 +8,7 @@ print("Length =", length)
 --> length = 11
 
    #another way
+   
 l = "hello world"
 length = len(l)
 print(length)
