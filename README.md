@@ -2,7 +2,7 @@
 
 1. Write a Python program to find the length of a string.
 Input Hello World
-Expected Output Length = 1
+Expected Output Length = 11
 
 
 a = "hello world"
